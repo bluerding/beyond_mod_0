@@ -10,6 +10,10 @@ I am currently scheduling in a 3 hour block review each day for each segment, fo
 
 ![Screen Shot 2022-11-14 at 1 55 21 PM](https://user-images.githubusercontent.com/116417370/201754315-05f665c0-2ffa-46f9-a65b-a0e721c5058e.png)
 
+## Learn Methods
+
+I want to have a better understanding of some methods and how they work. [MDN is a great resource for me to learn them!](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Method_definitions)
+
 ## Staying In Touch
 
 I definitely want to keep in touch with the group before Mod 1 starts. They have been the most valuable resource to me so far and are able to help me out any time I have a question.
